@@ -1,0 +1,11 @@
+mako-template/
+├── assets/
+│   ├── client/
+│   ├── univers/
+│   ├── chapitres/
+│   ├── activites/
+│   ├── badges/
+│   ├── ui/
+│   └── manifest.json     ← à créer maintenant
+├── index.html            ← le module (généré par Lovable)
+└── README.md
